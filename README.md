@@ -7,7 +7,7 @@ Sistema para rastrear e monitorar a frota de guinchos da Jz Resgate - Aberto ape
 
 A seguir será descrito os passos para relatar problemas com o sistema.
 
-1. [Criar uma conta no GitHub](https://github.com/join?source=header-home/)
+1. [Criar uma conta no GitHub](https://github.com/join?source=https://github.com/JZResgate/NASA-Issues/)
  * Caso esteja com dificuldades, [siga nosso tutorial](https://github.com/JZResgate/NASA-Issues/wiki/Relatando-um-problema)
 2.  [Relatar um problema (Issue)](https://github.com/JZResgate/NASA-Issues/issues)
  * Caso esteja com dificuldades, [siga nosso tutorial](https://github.com/JZResgate/NASA-Issues/wiki/Relatando-um-problema)
