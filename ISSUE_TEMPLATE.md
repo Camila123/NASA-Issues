@@ -10,4 +10,4 @@ Certifique-se de responder a estas perguntas:
 *Ex: 31173208
 
 - Print da tela
-*Tire print da tela utilizando a \*Ferramenta de Captura\* do Windows
+*Tire print da tela utilizando a "Ferramenta de Captura" do Windows
