@@ -9,7 +9,8 @@ A seguir será descrito os passos para relatar problemas com o sistema.
 
 1. [Criar uma conta no GitHub](https://github.com/join?source=header-home/)
  * Caso esteja com dificuldades, [siga nosso tutorial](https://github.com/JZResgate/NASA-Issues/wiki/Relatando-um-problema)
-2.  [Relatar um problema (Issue)](https://github.com/JZResgate/NASA-Issues/wiki/Relatando-um-problema)
+2.  [Relatar um problema (Issue)](https://github.com/JZResgate/NASA-Issues/issues)
+ * Caso esteja com dificuldades, [siga nosso tutorial](https://github.com/JZResgate/NASA-Issues/wiki/Relatando-um-problema)
 3. Aguardar o posicionamento do T.I
 
 ### 2. Beneficios ao relatar um problema :white_check_mark:
