@@ -1,12 +1,11 @@
-- [] Aonde ocorreu o problema?
+- [ ] Aonde ocorreu o problema?
  * Ex: Tela de atendimento, Historico, Relatorio Financeiro
 
-- [] Descrição do problema
+- [ ] Descrição do problema
  * Relate com algum nivel de detalhes o que ocorreu, evite descrições genéricas do tipo: Não funciona
-- [] Numero do sinistro
+
+- [ ] Numero do sinistro
  * Ex: 31173208
 
-- [] Print da tela
- * Tire print da tela
-
-* Capture a tela utilizando a \*Ferramenta de Captura\* do Windows
+- [ ] Print da tela
+ * Tire print da tela utilizando a \*Ferramenta de Captura\* do Windows
