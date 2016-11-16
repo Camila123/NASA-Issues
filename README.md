@@ -1,5 +1,5 @@
 #NASA
-======
+-----
 Sistema para rastrear e monitorar a frota de guinchos da Jz Resgate - Aberto apenas para relatar bugs
 
 ## _Tutorial para relatar bugs_ :red_circle:
