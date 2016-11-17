@@ -24,7 +24,7 @@ A seguir será descrito os passos para relatar problemas com o sistema.
 
 Dessa forma você melhora a comunicação entre TI e sua área. 
 
-### 3. Quais informações devem ser fornecidades
+### 3. Quais informações devem ser fornecidades :question:
 
 Descrever o problema com precisão ajuda a equipe de T.I, descrições genéricas tem o efeito inverso elas camuflam o problema e dificultam a analise. É como ir no médico e dizer que está com dor sem especificar aonde.
 
