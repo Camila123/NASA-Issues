@@ -28,5 +28,5 @@ Dessa forma você melhora a comunicação entre TI e sua área.
 
 Descrever o problema com precisão ajuda a equipe de T.I, descrições genéricas tem o efeito inverso elas camuflam o problema e dificultam a analise. É como ir no médico e dizer que está com dor sem especificar aonde.
 
-* [Dados para relatar um problema no App Jz](Como-relatar-um-problema-no-aplicativo-Jz-Resgate---Android)
+* [Dados para relatar um problema no App Jz](https://github.com/JZResgate/NASA-Issues/wiki/Como-relatar-um-problema-no-aplicativo-Jz-Resgate)
 * [Dados para relatar um problema no site](https://github.com/JZResgate/NASA-Issues/wiki/Como-relatar-um-problema-no-Site)
