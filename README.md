@@ -2,7 +2,7 @@
 
 Sistema para rastrear e monitorar a frota de guinchos da Jz Resgate - Aberto apenas para relatar bugs
 
-## _Tutorial para relatar bugs_ :red_circle:
+## 1. _Tutorial para relatar bugs_ :red_circle:
 
 A seguir será descrito os passos para relatar problemas com o sistema.
 
@@ -13,7 +13,7 @@ A seguir será descrito os passos para relatar problemas com o sistema.
  * Caso esteja com dificuldades, [siga nosso tutorial](https://github.com/JZResgate/NASA-Issues/wiki/Relatando-um-problema)
 4. Aguardar o posicionamento do T.I
 
-### 2. Beneficios ao relatar um problema :white_check_mark:
+#### Beneficios ao relatar um problema :white_check_mark:
 
 * Será notificado por e-mail quando ele estiver resolvido, 
 * Você poderá acompanhar o chamado.
@@ -24,7 +24,7 @@ A seguir será descrito os passos para relatar problemas com o sistema.
 
 Dessa forma você melhora a comunicação entre TI e sua área. 
 
-### 3. Quais informações devem ser fornecidades :question:
+#### Quais informações devem ser fornecidades :question:
 
 Descrever o problema com precisão ajuda a equipe de T.I, descrições genéricas tem o efeito inverso elas camuflam o problema e dificultam a analise. É como ir no médico e dizer que está com dor sem especificar aonde.
 
@@ -32,7 +32,7 @@ Descrever o problema com precisão ajuda a equipe de T.I, descrições genérica
 * [Dados para relatar um problema no site](https://github.com/JZResgate/NASA-Issues/wiki/Como-relatar-um-problema-no-Site)
 
 
-## _Tutorial para sugerir melhorias_ :heart_eyes:
+## 2. _Tutorial para sugerir melhorias_ :heart_eyes:
 
 Se você quer sugerir melhorias ou novas funcionalidades no sistema veja como acessando [aqui](https://github.com/JZResgate/NASA-Issues/wiki/Sugerir-Melhorias)
 
