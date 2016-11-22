@@ -30,3 +30,10 @@ Descrever o problema com precisão ajuda a equipe de T.I, descrições genérica
 
 * [Dados para relatar um problema no App Jz](https://github.com/JZResgate/NASA-Issues/wiki/Como-relatar-um-problema-no-aplicativo-Jz-Resgate)
 * [Dados para relatar um problema no site](https://github.com/JZResgate/NASA-Issues/wiki/Como-relatar-um-problema-no-Site)
+
+
+## _Tutorial para sugerir melhorias_ :green_circle:
+
+Se você quer sugerir melhorias, novas funcionalidades no sistema veja como acessando [aqui](https://github.com/JZResgate/NASA-Issues/wiki/Sugerir-Melhorias)
+
+Afinal, nem só de bugs se melhora um sistema!
